@@ -1,0 +1,5 @@
+﻿  c++13.cpp
+e:\c++13\c++13\c++13.cpp(159): warning C4101: “a”: 未引用的局部变量
+e:\c++13\c++13\c++13.cpp(147): warning C4101: “i”: 未引用的局部变量
+  c++13.vcxproj -> E:\c++13\Debug\c++13.exe
+  c++13.vcxproj -> E:\c++13\Debug\c++13.pdb (Full PDB)
